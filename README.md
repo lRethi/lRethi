@@ -1,4 +1,11 @@
-# std::cout << "hello, world!"
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "hello, world!";
+    return 0;
+}
+```
 
 Estudante de Engenharia focada em **Desenvolvimento de Sistemas**, explorando software, sistemas embarcados, desenvolvimento web e criação de jogos.
 
