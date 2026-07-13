@@ -73,9 +73,5 @@ I'm also a Linux enthusiast, using **Arch Linux with i3wm** as my main developme
 
 ## Contact 📫
 
-<div>
-  <a href="https://github.com/lRethi">
-    <img src="https://img.shields.io/badge/GitHub-lRethi-181717?style=for-the-badge&logo=github" />
-  </a>
-</div> <img src="https://img.shields.io/badge/Discord-@lrethi-181717?style=for-the-badge&logo=discord" />
+  <a href="https://github.com/lRethi"> <img src="https://img.shields.io/badge/GitHub-lRethi-181717?style=for-the-badge&logo=github" /> </a>  <img src="https://img.shields.io/badge/Discord-@lrethi-181717?style=for-the-badge&logo=discord" />
 
