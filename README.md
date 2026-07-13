@@ -74,10 +74,6 @@ I'm also a Linux enthusiast, using **Arch Linux with i3wm** as my main developme
   <img src="https://streak-stats.demolab.com?user=lRethi&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lRethi&theme=github-dark&hide_border=true" />
-</p>
-
 ---
 
 ## Contact 📫
