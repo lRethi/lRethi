@@ -7,19 +7,19 @@ int main() {
 }
 ````
 
-# Olá! Eu sou a Livia! 👋
+# Hello! I'm Livia! 👋
 
-Estudante de Engenharia focada em **Desenvolvimento de Sistemas**, explorando software, sistemas embarcados, desenvolvimento web e criação de jogos.
+Engineering student passionate about **Software Development**, exploring software engineering, embedded systems, web applications and game development.
 
-Tenho interesse em transformar ideias em projetos funcionais, passando desde programação de baixo nível em microcontroladores até aplicações web, bancos de dados e desenvolvimento de jogos.
+I enjoy transforming ideas into functional projects, ranging from low-level programming with microcontrollers to web applications, databases and interactive experiences.
 
-Atualmente trabalho com projetos envolvendo **C/C++**, **C#**, sistemas embarcados com **STM32**, aplicações web e game development.
+Currently working with projects involving **C/C++**, **C#**, **STM32-based embedded systems**, web development and game development.
 
-Também sou entusiasta de Linux, utilizando **Arch Linux com i3wm** como ambiente principal de desenvolvimento.
+I'm also a Linux enthusiast, using **Arch Linux with i3wm** as my main development environment.
 
 ---
 
-## Linguagens e Tecnologias 🛠️
+## Languages and Technologies 🛠️
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -27,23 +27,23 @@ Também sou entusiasta de Linux, utilizando **Arch Linux com i3wm** como ambient
   </a>
 </p>
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![i3wm](https://img.shields.io/badge/i3wm-222222?style=for-the-badge&logo=i3&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge\&logo=archlinux\&logoColor=white)
+![i3wm](https://img.shields.io/badge/i3wm-222222?style=for-the-badge\&logo=i3\&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge\&logo=unity\&logoColor=black)
 
-### Desenvolvimento
+### Development
 
-* Desenvolvimento Web (Front-end e Back-end)
-* Sistemas embarcados
-* Programação orientada a objetos
-* Estruturas de dados
-* Manipulação de arquivos
-* Banco de dados SQL
-* Desenvolvimento de jogos (2D e 2.5D)
+* Web Development (Front-end and Back-end)
+* Embedded Systems
+* Object-Oriented Programming
+* Data Structures
+* File Manipulation
+* SQL Databases
+* Game Development (2D and 2.5D)
 
-### Ambiente
+### Environment
 
 * Arch Linux
 * i3wm
@@ -52,18 +52,18 @@ Também sou entusiasta de Linux, utilizando **Arch Linux com i3wm** como ambient
 
 ---
 
-## Atualmente estudando 📈
+## Currently Learning 📈
 
-* Arquitetura de software;
-* Desenvolvimento de sistemas completos;
-* Banco de dados;
-* Programação embarcada;
-* Estruturas de dados e algoritmos;
-* Machine Learning e Inteligência Artificial (KNN, Árvores de Decisão e Scikit-Learn).
+* Software architecture;
+* Full-stack system development;
+* Databases;
+* Embedded programming;
+* Data structures and algorithms;
+* Machine Learning and Artificial Intelligence (KNN, Decision Trees and Scikit-Learn).
 
 ---
 
-## Estatísticas 📊
+## GitHub Stats 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lRethi\&show_icons=true\&theme=tokyonight)
 
@@ -71,7 +71,7 @@ Também sou entusiasta de Linux, utilizando **Arch Linux com i3wm** como ambient
 
 ---
 
-## Contato 📫
+## Contact 📫
 
 <div>
   <a href="https://github.com/lRethi">
