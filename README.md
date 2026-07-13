@@ -1,5 +1,4 @@
-# Olá, eu sou a Livia 👋
-## Mas pode me chamar de Rethi!
+# Hello, world!
 
 Estudante de Engenharia com foco em **Desenvolvimento de Sistemas**, explorando principalmente desenvolvimento de software, sistemas embarcados e criação de aplicações.
 
