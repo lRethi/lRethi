@@ -16,6 +16,7 @@ I enjoy transforming ideas into functional projects, ranging from low-level prog
 Currently working with projects involving **C/C++**, **C#**, **STM32-based embedded systems**, web development and game development.
 
 I'm also a Linux enthusiast, using **Arch Linux with i3wm** as my main development environment.
+<img src="https://img.shields.io/badge/Portfolio-ONLINE-00aa44?style=for-the-badge&logo=gnubash&logoColor=white">
 
 ---
 
@@ -32,10 +33,6 @@ I'm also a Linux enthusiast, using **Arch Linux with i3wm** as my main developme
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge\&logo=unity\&logoColor=black)
-<div>
-  <a href="https://lRethi.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Node%20Active-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
 
 ### Development
 
