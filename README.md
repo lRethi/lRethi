@@ -7,56 +7,78 @@ int main() {
 }
 ````
 
+# Olá! Eu sou a Livia! 👋
+
+Estudante de Engenharia focada em **Desenvolvimento de Sistemas**, explorando software, sistemas embarcados, desenvolvimento web e criação de jogos.
+
+Tenho interesse em transformar ideias em projetos funcionais, passando desde programação de baixo nível em microcontroladores até aplicações web, bancos de dados e desenvolvimento de jogos.
+
+Atualmente trabalho com projetos envolvendo **C/C++**, **C#**, sistemas embarcados com **STM32**, aplicações web e game development.
+
+Também sou entusiasta de Linux, utilizando **Arch Linux com i3wm** como ambiente principal de desenvolvimento.
+
 ---
 
-# Olá, eu sou a Livia!
+## Linguagens e Tecnologias 🛠️
 
-Estudante de Engenharia, focada em **Desenvolvimento de Sistemas**, explorando software, sistemas embarcados, desenvolvimento web e criação de jogos.
-
-Tenho interesse em transformar ideias em projetos funcionais, passando desde programação de baixo nível em microcontroladores até aplicações web e sistemas com banco de dados.
-
-## 🛠️ Tecnologias
-
-### Linguagens
-
-* C
-* C++
-* C#
-* Python
-* JavaScript
-* HTML/CSS
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,bash,linux,dotnet,nodejs,godot,unity,git,vscode" />
+  </a>
+</p>
 
 ### Desenvolvimento
 
 * Desenvolvimento Web (Front-end e Back-end)
-* Desenvolvimento de jogos (2D e 2.5D)
 * Sistemas embarcados
 * Programação orientada a objetos
 * Estruturas de dados
 * Manipulação de arquivos
 * Banco de dados SQL
+* Desenvolvimento de jogos (2D e 2.5D)
 
-### Ferramentas e plataformas
+### Ambiente
 
-* Git/GitHub
-* .NET
-* Node.js
-* Express.js
-* STM32 / ARM Cortex-M
-* Visual Studio
-* VS Code
-
-### Engines
-
-* Godot
-* Unity
+* Arch Linux
+* i3wm
+* Terminal/Bash
+* Git
 
 ---
 
-## 📈 Atualmente estudando
+## Projetos em destaque 🚀
 
-* Desenvolvimento de sistemas mais completos;
+### 📚 Biblioteca Online - ETEFMC
+
+Sistema web para gerenciamento de catálogo e empréstimos de livros.
+
+**Tecnologias:**
+HTML, CSS, JavaScript, Node.js e Express.js.
+
+---
+
+### 🎓 Class Manager
+
+Sistema embarcado desenvolvido em STM32F103C8 para controle de presença em sala de aula.
+
+**Tecnologias:**
+C, STM32 HAL, SPI e display ST7789.
+
+---
+
+### 🎮 Cronofobia
+
+Jogo 2.5D ambientado em um futuro distópico próximo, desenvolvido para a PROJETE.
+
+**Engine:**
+Godot Mono.
+
+---
+
+## Atualmente estudando 📈
+
 * Arquitetura de software;
+* Desenvolvimento de sistemas completos;
 * Banco de dados;
 * Programação embarcada;
 * Estruturas de dados e algoritmos;
@@ -64,14 +86,19 @@ Tenho interesse em transformar ideias em projetos funcionais, passando desde pro
 
 ---
 
-## 🚧 Projeto atual
+## Estatísticas 📊
 
-* **Cronofobia**: jogo 2.5D ambientado em um futuro distópico próximo, desenvolvido para a PROJETE com base no tema da Campanha da Fraternidade de 2026.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lRethi\&show_icons=true\&theme=tokyonight)
 
-  **Engine:** Godot Mono
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lRethi\&theme=tokyonight)
 
 ---
 
-## 📫 Contato
+## Contato 📫
 
-GitHub: [@lRethi](https://github.com/lRethi)
+<div>
+  <a href="https://github.com/lRethi">
+    <img src="https://img.shields.io/badge/GitHub-lRethi-181717?style=for-the-badge&logo=github" />
+  </a>
+</div>
+```
