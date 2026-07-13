@@ -1,7 +1,3 @@
-```md
-# Rethi
-```
-
 ```cpp
 #include <iostream>
 
@@ -11,6 +7,8 @@ int main() {
 }
 ```
 ---
+
+# Bem-vindo(a) ao meu perfil!
 
 Estudante de Engenharia focada em **Desenvolvimento de Sistemas**, explorando software, sistemas embarcados, desenvolvimento web e criação de jogos.
 
