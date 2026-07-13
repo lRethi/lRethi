@@ -7,7 +7,7 @@ int main() {
 }
 ````
 
-# Hello! I'm Livia! 👋 <img src="https://img.shields.io/badge/Portfolio-ONLINE-00aa44?style=for-the-badge&logo=gnubash&logoColor=white">
+# Hello! I'm Livia! 👋 <img src="https://img.shields.io/badge/lRethi.github.io-Portfolio-1793D1?style=for-the-badge&logo=linux&logoColor=white">
 
 Engineering student passionate about **Software Development**, exploring software engineering, embedded systems, web applications and game development.
 
