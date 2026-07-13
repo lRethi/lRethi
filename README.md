@@ -7,7 +7,7 @@ int main() {
 }
 ````
 
-# Hello! I'm Livia! 👋
+# Hello! I'm Livia! 👋 <img src="https://img.shields.io/badge/Portfolio-ONLINE-00aa44?style=for-the-badge&logo=gnubash&logoColor=white">
 
 Engineering student passionate about **Software Development**, exploring software engineering, embedded systems, web applications and game development.
 
@@ -16,7 +16,6 @@ I enjoy transforming ideas into functional projects, ranging from low-level prog
 Currently working with projects involving **C/C++**, **C#**, **STM32-based embedded systems**, web development and game development.
 
 I'm also a Linux enthusiast, using **Arch Linux with i3wm** as my main development environment.
-<img src="https://img.shields.io/badge/Portfolio-ONLINE-00aa44?style=for-the-badge&logo=gnubash&logoColor=white">
 
 ---
 
