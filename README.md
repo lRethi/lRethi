@@ -8,6 +8,10 @@ int main() {
 ````
 
 # Hello! I'm Livia! 👋
+<div>
+  <a href="https://lRethi.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 
 Engineering student passionate about **Software Development**, exploring software engineering, embedded systems, web applications and game development.
 
@@ -72,10 +76,6 @@ I'm also a Linux enthusiast, using **Arch Linux with i3wm** as my main developme
 ---
 
 ## Contact 📫
-<div>
-  <a href="https://lRethi.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-lRethi.github.io-66FF66?style=for-the-badge&logo=firefoxbrowser&logoColor=black" />
-  </a>
 
 <div>
   <a href="https://github.com/lRethi">
