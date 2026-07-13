@@ -74,6 +74,11 @@ I'm also a Linux enthusiast, using **Arch Linux with i3wm** as my main developme
 ## Contact 📫
 
 <div>
+  <a href="https://lRethi.github.io">
+    <img src="https://img.shields.io/badge/SCHRECKNET_NODE-ONLINE-00FF66?style=for-the-badge&logo=gnubash&logoColor=black" />
+  </a>
+
+<div>
   <a href="https://github.com/lRethi">
     <img src="https://img.shields.io/badge/GitHub-lRethi-181717?style=for-the-badge&logo=github" />
   </a>
