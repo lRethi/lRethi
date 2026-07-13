@@ -7,7 +7,9 @@ int main() {
 }
 ````
 
-# Hello! I'm Livia! 👋 <img src="https://img.shields.io/badge/Portfolio-lRethi.github.io-00C853?style=for-the-badge&logo=githubpages&logoColor=white">
+# Hello! I'm Livia! 👋 <a href="https://lRethi.github.io">
+<img src="https://img.shields.io/badge/Portfolio-lRethi.github.io-00C853?style=for-the-badge&logo=githubpages&logoColor=white">
+</a>
 
 Engineering student passionate about **Software Development**, exploring software engineering, embedded systems, web applications and game development.
 
