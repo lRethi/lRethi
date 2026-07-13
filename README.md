@@ -1,5 +1,5 @@
 ```md
-# Rethi - Livia
+# Rethi
 ```
 
 ```cpp
@@ -10,6 +10,7 @@ int main() {
     return 0;
 }
 ```
+---
 
 Estudante de Engenharia focada em **Desenvolvimento de Sistemas**, explorando software, sistemas embarcados, desenvolvimento web e criação de jogos.
 
