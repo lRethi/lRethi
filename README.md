@@ -1,6 +1,6 @@
 # std::cout << "hello, world!"
 
-Estudante de Engenharia focado em **Desenvolvimento de Sistemas**, explorando software, sistemas embarcados, desenvolvimento web e criação de jogos.
+Estudante de Engenharia focada em **Desenvolvimento de Sistemas**, explorando software, sistemas embarcados, desenvolvimento web e criação de jogos.
 
 Tenho interesse em transformar ideias em projetos funcionais, passando desde programação de baixo nível em microcontroladores até aplicações web e sistemas com banco de dados.
 
