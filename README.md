@@ -23,9 +23,15 @@ Também sou entusiasta de Linux, utilizando **Arch Linux com i3wm** como ambient
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,bash,linux,dotnet,nodejs,godot,unity,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,bash,dotnet,nodejs,git,vscode" />
   </a>
 </p>
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![i3wm](https://img.shields.io/badge/i3wm-222222?style=for-the-badge&logo=i3&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 
 ### Desenvolvimento
 
@@ -43,35 +49,6 @@ Também sou entusiasta de Linux, utilizando **Arch Linux com i3wm** como ambient
 * i3wm
 * Terminal/Bash
 * Git
-
----
-
-## Projetos em destaque 🚀
-
-### 📚 Biblioteca Online - ETEFMC
-
-Sistema web para gerenciamento de catálogo e empréstimos de livros.
-
-**Tecnologias:**
-HTML, CSS, JavaScript, Node.js e Express.js.
-
----
-
-### 🎓 Class Manager
-
-Sistema embarcado desenvolvido em STM32F103C8 para controle de presença em sala de aula.
-
-**Tecnologias:**
-C, STM32 HAL, SPI e display ST7789.
-
----
-
-### 🎮 Cronofobia
-
-Jogo 2.5D ambientado em um futuro distópico próximo, desenvolvido para a PROJETE.
-
-**Engine:**
-Godot Mono.
 
 ---
 
@@ -101,4 +78,3 @@ Godot Mono.
     <img src="https://img.shields.io/badge/GitHub-lRethi-181717?style=for-the-badge&logo=github" />
   </a>
 </div>
-```
