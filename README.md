@@ -65,19 +65,17 @@ I'm also a Linux enthusiast, using **Arch Linux with i3wm** as my main developme
 
 ## GitHub Stats 📊
 
-## GitHub Stats 📊
-
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=lRethi&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=lRethi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=lRethi&theme=github-dark&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=lRethi&layout=compact&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lRethi&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=lRethi&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lRethi&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lRethi&theme=github-dark&hide_border=true" />
 </p>
 
 ---
