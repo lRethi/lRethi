@@ -65,9 +65,11 @@ I'm also a Linux enthusiast, using **Arch Linux with i3wm** as my main developme
 
 ## GitHub Stats 📊
 
+## GitHub Stats 📊
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lRethi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lRethi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=lRethi&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=lRethi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
