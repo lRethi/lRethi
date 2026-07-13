@@ -1,8 +1,8 @@
-# Hello, world!
+# std::cout << "hello, world!"
 
-Estudante de Engenharia com foco em **Desenvolvimento de Sistemas**, explorando principalmente desenvolvimento de software, sistemas embarcados e criação de aplicações.
+Estudante de Engenharia focado em **Desenvolvimento de Sistemas**, explorando software, sistemas embarcados, desenvolvimento web e criação de jogos.
 
-Tenho interesse em transformar ideias em projetos funcionais, passando desde a programação de baixo nível em microcontroladores até aplicações web e sistemas com banco de dados.
+Tenho interesse em transformar ideias em projetos funcionais, passando desde programação de baixo nível em microcontroladores até aplicações web e sistemas com banco de dados.
 
 ## 🛠️ Tecnologias
 
@@ -21,6 +21,7 @@ Tenho interesse em transformar ideias em projetos funcionais, passando desde a p
 - Estruturas de dados
 - Manipulação de arquivos
 - Banco de dados SQL
+- Desenvolvimento de jogos (2D e 2.5D)
 
 ### Ferramentas e plataformas
 - Git/GitHub
@@ -31,6 +32,10 @@ Tenho interesse em transformar ideias em projetos funcionais, passando desde a p
 - Visual Studio
 - VS Code
 
+### Engines
+- Godot
+- Unity
+
 ---
 
 ## 📈 Atualmente estudando
@@ -39,8 +44,14 @@ Tenho interesse em transformar ideias em projetos funcionais, passando desde a p
 - Arquitetura de software;
 - Banco de dados;
 - Programação embarcada;
-- Estruturas de dados e algoritmos.
-- Machine learning e IA (KNN, Árvore de Decisão, ML Scikit)
+- Estruturas de dados e algoritmos;
+- Machine Learning e Inteligência Artificial (KNN, Árvores de Decisão e Scikit-Learn).
+
+---
+
+## 🚧 Projeto atual
+
+- **Cronofobia**: jogo 2.5D, ambientado em um futuro distópico próximo, desenvolvido para a PROJETE com base no tema da Campanha da Fraternidade de 2026. [Engine: Godot Mono]
 
 ---
 
